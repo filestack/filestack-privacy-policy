@@ -1,99 +1,210 @@
-This Privacy Policy describes how Filestack, Inc. (“Filestack,” “we” or “our”) collects information from and about you as a visitor to our website (the”Site”), how we use that information, and the circumstances under which we share information with others.
+# Privacy Policy
+Revision Date: 04/06/2020
 
-This Privacy Policy does not apply to personal data that you transmit as a Filestack customer to establish and maintain your account, or to any personal data that may be part of the content that you submit or manage using the Filestack service. The Terms of Use for our services describe our obligations with respect to any personal data that you submit in connection with your services account or as part of your content.
+# Introduction
 
-Not for Children. None of our websites, applications or services are intended for children. Please do not submit information about yourself using our websites if you are under 13. If you are the parent or guardian of a child under 13 who may have submitted information to us please contact us at privacy@filestack.com.
+Filestack, Inc. provides online services used by application service providers to upload, transform and deliver files within their applications.  Most of our customers are business entities or other organizations. Filestack’s main office is in San Antonio, Texas and it offers its services to customers worldwide.
 
-Please contact us at privacy@filestack.com (i) you wish to find out more about our use and disclosure of your personal data and how to limit it, (ii) you wish to exercise your right to access, amend, or delete any personal data we hold about you; or (iii) you have any other questions or concerns about this Privacy Policy.
+This Privacy Statement describes our policies for personal data that we collect and use for our own general business purposes.
 
-## What information do we collect?
-Webserver.
-When you visit the Site as a guest, our web server will capture your IP address, the time and duration of your visit, and the pages on the Site that you visit. It may also collect information about your browser, device (including your mobile device), location and other information of the type collected by web servers generally. We use cookies, web beacons, and other techniques to identify your browser and device to your guest activity on the Site. Please see the section below captioned “Online Data Collection Technologies” for more information regarding our use of these techniques and your ability to restrict our collection of data in this manner.
+We also receive and transmit personal data that is controlled by those of our customers who use our services to process files that include personal data. We use this customer-controlled personal data only as permitted by our customers in our agreements with them and not for our own general business purposes. We have included information below to describe our commitments to you if we have access to your data in our role as a file processor, but you should review the privacy statement of our customer that controls your personal data to understand its privacy practices.
 
-### Analytics Tools.
-We may use third party web analytics tools to capture information about your use of the Site, such as mouse clicks and scrolling activity. For example, we may use Google Analytics, Google Website Optimizer, or Segment. The providers of these tools may capture data about your activity on our Site, via cookies and other techniques.
+# How to Contact Us
 
-### Information You Submit.
-We may ask you to volunteer information about yourself using the Site. For example, we may ask you to provide your name, phone number, and email address, demographic data (such as your profession, age, gender, interests), and information about your general interest in the Service. Your submission of this type of information as a guest on the Site is not required.
+Email: privacy@filestack.com or via mail: Filestack – 122 East Houston St, San Antonio TX 78205.
 
-### Links from Other Sites.
-If you arrive at our site by clicking on an advertisement or content published by a third party, that third party may provide information to us about your activity on their site. For example, we may use Google AdWords or other third party advertisers, or may sponsor links on other third party sites.
+Please contact us if you have any questions about the information in this Privacy Statement or our handling of your personal data, or would like to access, amend, delete or take other action with regard to your personal data. We ask, however, that if we are in possession of your data solely as a service provider for our customer you first contact our customer with your request.
 
-### Data Services.
-We may have data about you that we purchased from third party “data matching” services. A data matching service combines data from multiple website operators and uses automated techniques to match data collected from various places to a single individual. Please see the section below captioned Online Behavioral Advertising to learn about behavior advertising practices or to opt out of this type of advertising.
+# Changes to Privacy Statement
 
-### Combination with Other Data.
-If you register for our Services, we may combine information we collect about you as a Site guest with the information we collect about you as a Service user, including personally identifying information, such as your name.
+We may change this Privacy Statement from time to time. We will manage your personal data in accordance with the Privacy Statement version that was published on the date that we collected the data about you. Prior versions of our Privacy Statement may be found at https://github.com/filestack/filestack-privacy-policy.
 
-## How do we use your personal information?
-Any of the information we collect from or about you may be used in one of the following ways:
+# Definitions
 
-### To improve our website
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
+These words have special meanings in this Privacy Policy:
+**account user** means an individual who interacts with us as a representative of our customer or a user of our online services;
+**customer** means the business or other organization that establishes and account with us for the use of our services;
+**services** means our online services for the upload, transformation, and delivery of files to an application;
+**site** or **website** refers to www.filestack.com and any other website where this Privacy Policy is posted;
+file embedded personal data means personal data of an individual that is part of a file that we process for our customer as part of providing our services;
+**visitor** means an individual who visits our website, interacts with us at a trade show or other industry event, or communicates with us in some other way other than as an account user;
+**we**, **our** and **us** refer to Filestack, Inc.
+**you** and **your** refer to visitors, account users, and the individuals who are the data subjects of the file embedded personal data, as appropriate to the context.
 
-### To administer a contest, promotion, survey or other site feature
+# Data Collection Purposes
 
-### To send periodic emails
-Any email address you provide may be used to send you information and updates pertaining to our services, in addition to receiving occasional company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, reply to the email with the subject line ‘Unsubscribe’ to be removed from future emails.
+We collect personal data for the following purposes:
+* to operate our website;
+* to improve our website and product offerings;
+* to market our services;
+* to manage our relationship with our customers and provide customer support;
+* to manage our vendors. 
 
-Filestack only uses and processes personal data for purposes compatible with the original purpose of collection or as subsequently authorized by you.
- 
-## How do we protect your information?
-We use industry standard and reasonable measures to protect the security of your personal data.
- 
-## Online Data Collection Technologies?
-Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies in order to implement authentication and to enable core features of our application, as well as to enable us to better understand user behavior. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. However, if you turn your cookies off, most of our services may not function properly. However, you can still place orders by contacting customer service.
- 
-## Do we disclose any information to outside parties?
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except as follows:
+We allow third party advertisers, such as Google and Facebook to collect personal data on our site for the purpose of selling targeted advertisement services. See [Advertising Ecosystem](#advertising-ecosystem) below.
 
-* To trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
-* When we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In addition, if we ever decide to sell our business we may provide the information to a potential acquirer but only to the extent customary in these circumstances and subject to the potential acquirer’s agreement to maintain the information in confidence and use it only for the purpose of evaluating the potential acquisition.
+We have included details of how we use data we collect for these purposes in the section below captioned Data Use.
 
-We provide non-personally identifiable visitor information to others for marketing, advertising, or other uses. In limited circumstances we permit these third parties to further share this non-personally identifiable information with others for the purpose of assisting others in developing their online advertising and marketing strategies. For example, we may permit a data service to associate the de-identified data we provide with other information it may have about you. The data service would then use the combined data to provide data services to other website operators and advertisers to assist them in more effectively targeting their content and advertising. Please see the section below captioned Online Behavioral Advertising to learn about behavioral advertising practices or to opt out of this type of advertising.
+# Data Collection Methods
 
-We will provide an individual opt-out or opt-in choice before we share your data with third parties other than as described above, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
+#### Automated data collection on our website
 
-Filestack’s accountability for personal data that it receives under the EU- US Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Filestack remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Filestack proves that it is not responsible for the event giving rise to the damage.
+When you visit our site, our web server captures data that may be used to identify you or your device, such as your IP address, device identifier, and information about your device such as the operating system, time zone setting, language setting, browser settings, and browser plug ins. Our server also captures information about your visit to our site, such as the time and duration of your visit on each page on the site, and your navigation path from page to page (i.e., what you click on). We use third-party service providers such as Google Analytics, Segment, and Full Story to capture other information about your site visit, such as recordings of you scrolling activity on each page of our site.
 
-## Third party links
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We and our third-party analytics providers may place a cookie on your browser so that we may identify you as a return visitor if you visit our site more than once. Please see How to Opt Out of Online Data Collection below for information on how to block cookies.
 
-## Children’s Online Privacy Protection Act Compliance
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not intentionally collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+#### Data provided by advertisers
 
-## Data Integrity
-Filestack processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+If you arrive at our site by clicking on a link that is part of an advertisement on another site (including an advertisement on a social media platform), the advertising service will identify the link, enabling us to associate you with the advertising parameters we provided to the advertising service. For example, we may ask an advertising service to target our ad to individuals that the ad service has identified as having a high interest in file upload management. If you arrive at our site by means of the link in that ad, we will be able to identify you as having a high interest in file upload management.  Advertising services are responsible for the collection, use and disclosure of the data they provide to us in accordance with their published privacy policies.
 
-## Privacy Shield
-Filestack complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Filestack has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
+See the section below captioned [Advertising Ecosystem](#advertising-ecosystem) and [How to Opt Out of Online Data Collection](#how-to-opt-out-of-online-data-collection).
+
+#### Data provided by you as part of your communications with us
+
+We collect personal data that you submit to us as part of a communication with us as a visitor or account user, such as via chat on our site, email, submission of a web form, telephone, or in person (such as at a meeting, trade show or other event). For example, you may communicate with us as a visitor to obtain more information about our services, or as an account user to request technical support. The communication may include information that can be used to identify you such as your name, job title, job function, the organization you represent, email address, phone number as well as information about your interest in our company or our services. We do not solicit information from you as part of these communications other than information that is useful to us in light of the purposes described above, but if you choose to volunteer more personal information than we ask for we will collect that as part of the communication.
+
+#### Data provided by you or your organization to establish and maintain the Filestack account and authorize service users
+
+Our customers are required to name a contact for billing, administrative, technical and other account related communications. We collect the name and business contact information of each account representative.  Our customers also authorize service users.  We require each individual account representative and service user to establish their own set of account credentials (user name and password). If the customer wishes to integrate their social media accounts with our services, we will require the customer to provide the account credentials used by their representatives on those platforms.
+
+#### Marketing Partners and Resellers
+
+We have relationships with other companies that help us market, sell and deliver our services. They may collect personal data of the type described above using the methods described above and provide that data to us. For example, we have relationships with companies who refer customers to us and resellers who offer our services under the reseller’s own brand name. We will treat personal information we receive from our marketing partners and resellers the same as the personal information we collect directly.
+
+#### Combinations of data collected using different methods
+
+We use service providers such as Google Analytics, Segment, and HubSpot to help us associate the personal data we capture about you as part of each visitor interaction as part of a single profile with personal data we collect about you as an account user.
+
+# Data Use  
+
+**Visitors**: We use data collected about visitors:
+* to operate our website – web servers, by their nature, must capture your IP address and information about your browser and device to display our site to you;
+
+* to develop our website and help us develop of product offerings – we use the information to help us understand what part of our website and products offerings is of interest to different kinds of visitors so that we can modify and improve our site content and other marketing materials to be more appealing to prospective customers; we may also use the information about your site visits and other visitor interactions to help us measure interest in our services or various features of our services;
+
+* to measure the success of our marketing efforts – we use visitor information to verify whether the ad services we purchase from third parties are actually resulting in visits to our site or other visitor interactions;
+
+* to communicate with you as part of our marketing efforts – if you provide us with contact information we may use it to send you communications about our products or services, or related topics that we think you may find interesting;
+
+**Account Users**: we use data collected about accounts users (alone or as combined with data collected as part of an account user’s visits (such as pre-login activity on the Site):
+* to provide our services – we use login credential to authenticate an individual as an authorized user of our services; we use contact information to send invoices and other account communications, and authenticate individuals who use the services or request information or support on the customer’s behalf;
+
+* to help us develop our service offerings – we use information about your use of our services to measure interest in various features and plan enhancements or new features, and to improve user experience;
+
+* to communicate with you as part of our marketing efforts – we use contract information and information about your use of our services to send you communications about our products or services, or related topics that we think you may find of interest
+
+# Data Integrity
+
+We process personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We regularly review our data collection, storage, and processing practices to ensure that we only collect, store, and process the minimum personal information needed for the purpose collected. We take reasonable steps to ensure that the personal information that we process is accurate, complete, and current, but we depend on our account users to update or correct their personal data whenever necessary.
+
+# Requests to access, amend, delete or restrict the use of your personal data
+
+Please send us a request at privacy@filestack.com if you would like to know what personal data we have about you, or would like us to correct inaccurate data, delete your personal data, or restrict the use of your personal data. We commit to responding to your request promptly and honoring your reasonable requests. We will comply with all applicable legal requirements related to your requests, but please note that we are not required by law to delete or restrict the use of your data in a way that prevents us from complying with our legal obligations to our customer or that interferes with our reasonable record keeping as necessary to demonstrate compliance with our contracts and applicable law.
+
+#### Additional Information for California Visitors, Account Users
+
+In addition to our commitments stated above, if our collection of personal information about you for our business purposes is covered by the California Consumer Privacy Act you have the have certain rights under that law.
+
+You may request disclosure of the following specific information:
+* the categories of personal information as well as the specific pieces of personal information that we have collected about you for our business purposes over the prior 12 months,
+
+* the categories of sources from which we have collected that personal information,
+
+* our purpose(s) for collecting that personal information,
+
+* the categories of third parties with whom we have shared the personal information, such as our service providers, and
+
+* whether we have sold the personal information to third parties or disclosed the information to third parties for a business purpose, and if so the categories of personal information and third parties.
+
+In addition, you have the right to ask Filestack to delete your personal information. We will comply with your deletion request and require our service providers to do the same, unless we plan to retain the personal information on a legally permitted basis and we give you notice of this fact and the legal basis on which we rely.
+
+You may make a request by calling our toll-free number 833-307-0220 or submitting the request to https://share.hsforms.com/13ieeEy2mQ0yMyeE2kHMbQgfc0j or by sending an email or physical mail request to the addresses above.
+
+Before responding to your request we may ask you to provide information needed to verify that you are the consumer (or have authorization from the consumer) whose personal information is covered by the request.
+
+We may not discriminate against you because you make a request described in this Section by denying you our services or providing a different quality or price for our services, unless the different service or price is reasonably related to the value provided to you by your data.
+
+# Processor Data
+
+We do not use file embedded personal data for any purpose except as incident to processing the files in which the data is embedded as part of providing our services to our customer. Some of our customers are subject to special data privacy laws, such as the European Union’s General Data Protection Regulation. Our commitments as a processor of data covered by these types of regulations are stated in our Data Processing Addendum to our services agreement with our customers who are subject to those laws.
+
+Please contact us at the address above if you have questions or concerns regarding our processing of the data described in this Section. We ask, however, that your first contact our customer if you have a request to access, block, erase or take other action with respect to data that we have solely as a data processor for our customer.
+
+# Disclosure
+
+We have not sold or leased personal data, and will not sell or lease your personal data unless you give us your consent to do so. The California Consumer Privacy Act includes a definition of “sale” that may include permitting third party advertisers to collect data about our Site visitor for use as part of their advertising services generally. During the prior 12 months we have permitted Google Analytics and Facebook to collect data on our site by means of advertising cookies. See the section below captioned Advertising Ecosystem.
+
+We will not disclose your personal data to third parties except as follows:
+
+#### Legal Reasons
+
+When we believe release is appropriate to comply with the law, to enforce our terms of use and other rights, or to protect the rights and safety of others.
+
+This may include exchanging information with government regulatory or law enforcement agencies, or with other companies and organizations for fraud protection and legal compliance.
+
+#### Sale of Business
+
+As part of a sale of a sales of business assets where the purchaser needs the personal data to use the assets. We may in the future sell all or part of our assets or be involved in a merger. 
+
+We may provide the company that is seeking to acquire our business with access to personal data as part of their evaluation of our business, but will require them to maintain the personal data in confidence and use it only to evaluate our business. If we complete a transaction, it is customary to transfer personal data that is related to the purchased business assets to the purchaser.
+
+#### Service Providers
+
+We use the services of companies like the ones listed below to collect data on our behalf or to help us analyze, store, manage and otherwise process your personal data. Each of these companies commits in its contract with us to use the personal data only according to our contract with them or our other instructions as necessary to support our business. They are not authorized to use your personal data for any other purpose. They are not authorized to disclose your personal data to others except with our permission, and only if they require the others to comply with the same restrictions that apply to them.
+
+* Mailgun- outgoing email
+* Zendesk - incoming email, support
+* DocuSign, HelloSign - E-signing
+* Stripe, Xero, bill.com - payment processing
+* Google - organization email and documents management provider
+* Google Analytics - analytics
+* Google Ads - advertising
+* HubSpot marketing, landing pages, analytics
+* Salesforce – customer relationship management
+* Amazon AWS – Infrastructure provider, applications
+
+# Advertising Ecosystem
+
+We use online advertising services that enable a practice referred to as “online behavior advertising.” These services aggregate data about an individual’s behavior on many different sites and online services, and use that data to sell targeted advertising services. For example, we permit Google’s advertising services to collect data about your behavior on the Filestack site, as do many other website operators who use Google’s ad services. Google combines the data about an individual that it collects from different sources, and uses this aggregate data to sell advertising services that target the display of ads to web users who meet certain behavioral criteria. Google does not disclose this aggregate data to Filestack, but we are able to infer that visitors who interact with our ad meet the advertising criteria we provided. Google collects this data using cookies, web server logs (its own and its advertising customers), clear gifs and other online data collection techniques. See Online Data Collection Techniques and How to Opt Out of Online Data Collection.
+
+# Online Data Collection Techniques
+
+A cookie is a unique alphanumeric identifier that is placed by a web server on the web visitor’s browser. Cookies are used to analyse visitors’ use of the website. For example, a website operator can use the cookie to identify the number of unique visitors to the site, whether or not those visitors are repeat visitors, information about the visitor’s activity on the site, and the user’s device and device settings. A tracking pixel, also known as a web bug or web beacon, is a small graphic (usually 1 pixel x 1 pixel) invisible to the eye, that is embedded in web content or email. When content that has an embedded web beacon is viewed, the browser will request content from a web server, which in turn will set a cookie.
+
+# How To Opt Out Of Online Data Collection
+
+You can manage browser cookies through your browser settings. The 'Help' feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, how to disable cookies, and when cookies will expire. If you disable all cookies on your browser, neither we nor third parties will transfer cookies to your browser. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some features and services may not work.
+
+We will recognize and respond to any “do not track” setting you may have in your browser.
+
+The third parties who we permit to collect data on our site have features that allow you to block their data collection via cookies. See their privacy policies and cookie policies:
+
+Google Ads: https://policies.google.com/technologies/ads?/hl=en&gl=us&hl=en
+
+# Communications Policy
+
+If you do not wish to receive our email or other communications, please send your request to privacy@filestack.com. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
+
+# Children
+
+Children are not permitted to use our site or services. We do not knowingly collect personal information from anyone under 18. If you are under 18, do not use or provide any information on our Sites unless you have involved your parent or guardian. If we discover that we have information about a child we will delete that information. If you are the parent or guardian of a child and you believe we have personal data about the child without your consent, please contact us at the address appearing at the top of this page and we will delete that information.
+
+# Security
+
+Filestack protects personal data from unauthorized use, disclosure, corruption and destruction using appropriate technical and organizational measures.
+
+# Data Retention
+
+We will retain your personal data only for as long as reasonably necessary to fulfill the purpose for which it was collected, and to comply with our legal obligations. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
+
+# Privacy Shield
+Filestack complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries, the United Kingdom, and Switzerland. Filestack has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
 
 * In compliance with the Privacy Shield Principles, Filestack commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact us at: privacy@filestack.com.
-* Filestack has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. Data subjects in the EU and in Switzerland who do not receive timely acknowledgment of their complaint, or fee that their complaint is not satisfactorily addressed, should visit https://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.  The services of the Better Business Bureau are provided at no cost to you.
-* Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-## Enforcement
-Filestack regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Filestack’s treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o Filestack, 122 E. Houston, 2nd Floor, San Antonio, TX 78205. When we receive formal written complaints at this address, it is Filestack’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Filestack and an individual.
+* Filestack has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. Data subjects in the EU and in Switzerland who do not receive timely acknowledgment of their complaint, or fee that their complaint is not satisfactorily addressed, should visit https://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. The services of the Better Business Bureau are provided at no cost to you.
 
-The U.S. Federal Trade Commission has jurisdiction to investigate and enforce Filestack’s compliance with Privacy Shield requirements.
+* Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. See https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
 
-## Online Privacy Policy Only
-This online privacy policy applies only to information collected through our website and not to information collected offline or information that we receive from our customers as part of providing services.
+* The Federal Trade Commission has jurisdiction over Filestack’s compliance with the Privacy Shield.
 
-## Online Behavioral Advertising
-To learn more about behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/ choices.
-
-## Your Consent
-By using our site, you consent to our web site privacy policy.
-
-## Changes to our Privacy Policy
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on November 8, 2017.
-
-## Contacting Us
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Filestack
-122 E. Houston St, 2nd Floor
-San Antonio, TX 78205
-
-privacy@filestack.com
+* As a Privacy Shield organization we remain liable under the Privacy Shield Principles if our agent processes your personal information in a manner inconsistent with the Principles, unless we proves that we are not responsible for the event giving rise to the damage. 
