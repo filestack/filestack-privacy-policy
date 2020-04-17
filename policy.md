@@ -96,11 +96,17 @@ We use service providers such as Google Analytics, Segment, and HubSpot to help 
 
 We process personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We regularly review our data collection, storage, and processing practices to ensure that we only collect, store, and process the minimum personal information needed for the purpose collected. We take reasonable steps to ensure that the personal information that we process is accurate, complete, and current, but we depend on our account users to update or correct their personal data whenever necessary.
 
-# Requests to access, amend, delete or restrict the use of your personal data
+# Choices and Means to Limit Use and Disclosure of Your Data
 
-Please send us a request at privacy@filestack.com if you would like to know what personal data we have about you, or would like us to correct inaccurate data, delete your personal data, or restrict the use of your personal data. We commit to responding to your request promptly and honoring your reasonable requests. We will comply with all applicable legal requirements related to your requests, but please note that we are not required by law to delete or restrict the use of your data in a way that prevents us from complying with our legal obligations to our customer or that interferes with our reasonable record keeping as necessary to demonstrate compliance with our contracts and applicable law.
+You may limit our use and disclosure of your personal data.  Please send us a request at privacy@filestack.com if you would like to know what personal data we have about you and how we use and disclose that data.  You  may also submit requests to privacy@filestack.com if you want to correct, delete or restrict the use of your personal data, or if you object to our processing of your data on the grounds that we do not have a lawful basis for that processing.  
 
-#### Additional Information for California Visitors, Account Users
+On receipt of your notice that the data we have about you is inaccurate or incomplete, we will promptly  correct any inaccurate data and ensure it is complete in light of the purposes for which we process the data. 
+
+If you wish to revoke any consent you have previously given, we will honor the revocation and will no longer rely on that consent to process your personal data.  For example, if you no longer consent to our use of your data for marketing purposes, we will stop using the data for that purpose and notify any third party with whom we have shared that data that they must also stop using it for that purpose.
+
+On your request, we will promptly restrict processing of your personal data or delete your personal data except to the extent the restriction or deletion will prevent us from complying with our legal obligations to our customer or interfere with our reasonable record keeping as necessary to demonstrate compliance with our contracts and applicable law.
+
+#### Additional Information for California Visitors, Account Users for Limiting Use and Disclosure of Your Data
 
 In addition to our commitments stated above, if our collection of personal information about you for our business purposes is covered by the California Consumer Privacy Act you have the have certain rights under that law.
 
