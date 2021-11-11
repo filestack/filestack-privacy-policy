@@ -1,5 +1,5 @@
 # Privacy Policy
-Revision Date: 04/06/2020
+Revision Date: 11/11/2021
 
 # Introduction
 
@@ -196,7 +196,7 @@ Children are not permitted to use our site or services. We do not knowingly coll
 
 # Security
 
-Filestack protects personal data from unauthorized use, disclosure, corruption and destruction using appropriate technical and organizational measures.
+Filestack protects personal data from unauthorized use, disclosure, corruption and destruction using appropriate technical and organizational measures. For more information, please see [Filestack Statement of Security Practices](https://www.filestack.com/security/Filestack-Statement_Of_Security_Practices.pdf).
 
 # Data Retention
 
